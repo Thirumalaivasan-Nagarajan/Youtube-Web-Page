@@ -1,0 +1,72 @@
+.header
+{
+    display:flex;
+    flex-direction:row;
+    height:40px;
+    justify-content:space-between;
+}
+.left-section
+{
+    display:flex;
+    align-items:center;
+}
+.hamber-menu
+{
+    height:22px;
+    width:22px;
+    padding-left:20px;
+    padding-right:20px;
+}
+.youtube-logo
+{
+    
+    height:20px;
+    width:90px;
+}
+.middle-section
+{
+        display:flex;
+        flex:1;
+        justify-content:center;
+}
+.search-bar
+{
+    height:32px;
+    flex:1;
+    max-width:358px;
+}
+.search-button
+{
+    height:36.5px;
+    margin-right:10px;
+}
+.search-icon-image
+{
+    width:32px;
+    height:22px;
+    padding-top:5px;
+}
+.voice-icon
+{
+    height:36.5px;
+    width:40px;
+    border-radius:20px;
+    border:none;
+}
+.right-section
+{
+    background-color:green;
+    width:150px;
+    display:flex;
+    align-items:center;
+}
+.upload-image,.apps-image,.notification-image
+{
+    height:24px;
+    width:24px;
+}
+.profile-picture
+{
+    height:32px;
+    width:32px;
+}
