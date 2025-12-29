@@ -30,3 +30,15 @@
     border-radius:25px;
     margin-top:20px;
 }
+.thumbnail
+{
+    position:relative;
+}
+.time
+{
+    background-color:black;
+    color:white;
+    position:absolute;
+    right:4px;
+    bottom:13px;
+}
